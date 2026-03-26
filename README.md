@@ -11,7 +11,7 @@ A fully autonomous maze-solving robot built using C++ and Arduino, independently
 - Embedded systems programming in C++
 
 ## Repository Contents
-- `maze_robot.ino` - Arduino source code
+- `maze_robot.ino`: Arduino source code
 
 ## Tools & Technologies
 `Arduino` `C++` `Embedded Systems` `Robotics`
